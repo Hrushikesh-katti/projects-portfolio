@@ -195,7 +195,7 @@ movie-success-marketing-ai/
 🔍 Open to Work | Actively Looking for Full-Time Opportunities
 📍 Open to Relocation: Bangalore | Hyderabad | Pune | Chennai | Remote  
 
-- GitHub: [your-username](https://github.com/your-username)  
+- GitHub: [Hrushikesh-katti](https://github.com/Hrushikesh-katti)  
 - Email: hrushikeshskatti7@gmail.com  
 
 ---
