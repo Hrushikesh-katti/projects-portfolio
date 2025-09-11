@@ -1,6 +1,20 @@
 
 # 🎬 Movie Success Prediction & Marketing AI
 
+## 🚀 Executive Summary (TL;DR)
+
+A **machine learning system** that predicts if a movie will be a **Hit, Average, or Flop** and automatically generates **AI-powered marketing taglines & strategies**.
+
+- **Objective:** Solve a core business problem in the film industry by combining predictive analytics with generative AI.
+- **Solution:** Trained a **RandomForest model** (0.68 F1-score) on 5,000+ movies. Integrated a **Large Language Model (DeepSeek)** to create marketing content based on the prediction.
+- **Key Innovation:** Not just predicting success, but also providing a **data-driven marketing tool**—a unique blend of ML and business strategy.
+- **Technical Highlight:** Optimized and deployed the model into a **fast, user-friendly web app** (Gradio) that runs in **under 10 seconds**.
+- **My Role:** End-to-end project ownership: data analysis, feature engineering, model development/A-B testing, LLM integration, and deployment.
+
+**👉 Scroll down for the detailed methodology, results, and code.**
+
+---
+
 ## 📌 Project Overview
 
 Welcome to **Movie Success Prediction & Marketing AI**, a machine learning project designed to predict whether a movie will be a **Flop**, **Average**, or **Hit** based on historical movie metadata, and generate tailored marketing taglines and strategies using a **large language model (LLM)**.
