@@ -1,0 +1,26 @@
+Job Title: Data Science Associate
+
+Experience: 2 years
+
+We are looking for a Data Science Associate with a strong foundation in data analytics, machine learning, and visualization.
+
+Responsibilities:
+• Build and deploy ML models using Python
+• Perform data cleaning, preprocessing, and analysis using SQL and Pandas
+• Create insightful Power BI dashboards
+• Work on NLP-based projects and text analytics
+• Collaborate with business teams for requirement gathering
+• Apply fuzzy logic and statistical analysis in data interpretation
+
+Skills Required:
+• Python
+• SQL
+• Power BI
+• Machine Learning
+• NLP
+• Communication Skills
+• Team Management
+
+Preferred:
+• Knowledge of Streamlit or Flask
+• Understanding of data visualization and predictive analytics
